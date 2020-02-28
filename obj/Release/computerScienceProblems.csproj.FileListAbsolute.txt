@@ -1,0 +1,10 @@
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\bin\Release\computerScienceProblems.exe.config
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\bin\Release\computerScienceProblems.exe
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\bin\Release\computerScienceProblems.pdb
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Release\computerScienceProblems.Form1.resources
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Release\computerScienceProblems.Properties.Resources.resources
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Release\computerScienceProblems.csproj.GenerateResource.cache
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Release\computerScienceProblems.csproj.CoreCompileInputs.cache
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Release\computerScienceProblems.exe
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Release\computerScienceProblems.pdb
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Release\computerScienceProblems.csprojAssemblyReference.cache

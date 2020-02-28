@@ -1,0 +1,19 @@
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.csprojAssemblyReference.cache
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.Form1.resources
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.Properties.Resources.resources
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.csproj.GenerateResource.cache
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.csproj.CoreCompileInputs.cache
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\bin\Debug\computerScienceProblems.exe.config
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\bin\Debug\computerScienceProblems.exe
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\bin\Debug\computerScienceProblems.pdb
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.exe
+C:\Users\sarfraz.khan\source\repos\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.pdb
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\bin\Debug\computerScienceProblems.exe.config
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\bin\Debug\computerScienceProblems.exe
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\bin\Debug\computerScienceProblems.pdb
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.csprojAssemblyReference.cache
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.Form1.resources
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.Properties.Resources.resources
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.exe
+C:\Users\moham\Desktop\c# projects\computerScienceProblems\computerScienceProblems\obj\Debug\computerScienceProblems.pdb
